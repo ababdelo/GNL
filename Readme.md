@@ -1,0 +1,1 @@
+<a>This project serves as an introduction to fundamental concepts of file systems, including the open-file table and file-descriptor table, as well as providing hands-on experience with file manipulation techniques such as opening, reading, writing, and creating files, along with the use of static variables.</a>
